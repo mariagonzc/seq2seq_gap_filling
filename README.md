@@ -6,7 +6,7 @@ Earth observation from satellite sensors allows us to monitor natural ecosystems
 
 # Results
 
-![image](seq2seq_qualitative.png)
+![image](seq2seq_qualitative.jpg)
 
 <b>Example images showing the Seq2Seq reconstruction on different land covers.</b>For each example, the first row shows the land cover
 map followed by ten original time steps of a sequence while the second row corresponds to its noise-free version. All images are noted with the
